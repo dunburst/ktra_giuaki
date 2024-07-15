@@ -52,7 +52,7 @@ const styles = StyleSheet.create({
   },
   overlay: {
     ...StyleSheet.absoluteFillObject,
-    backgroundColor: 'rgba(14, 23, 39, 0.😎', // Adjust opacity and color as needed
+    backgroundColor: 'rgba(14, 23, 39, 0.8',
   },
   content: {
     position: 'absolute',
@@ -65,7 +65,7 @@ const styles = StyleSheet.create({
     lineHeight: 58,
     color: '#FFFFFF',
     textAlign: 'center',
-    marginTop: 300, // Adjust as needed
+    marginTop: 300, 
   },
   description: {
     fontFamily: 'Gilroy-Medium',
@@ -73,7 +73,7 @@ const styles = StyleSheet.create({
     lineHeight: 20,
     color: 'rgba(252, 252, 252, 0.7)',
     textAlign: 'center',
-    marginTop: 20, // Adjust as needed
+    marginTop: 20, 
   },
   getStartedButton: {
     width: 353,
@@ -82,7 +82,7 @@ const styles = StyleSheet.create({
     borderRadius: 19,
     justifyContent: 'center',
     alignItems: 'center',
-    marginTop: 20, // Adjust as needed
+    marginTop: 20, 
   },
   buttonText: {
     fontFamily: 'Gilroy',
